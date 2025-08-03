@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Soy un apasionado del código limpio y el diseño intuitivo.</br>¡Vamos a crear algo genial juntos!
+Frontend Lover ❤️ Backend explorer
 
 > The only valid measurement of code quality: WTFs/minute

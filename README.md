@@ -1,4 +1,4 @@
-## Hola, mi nombre es Jose Rius 👋
+## Hola, mi nombre es Jose👋
 
 <!--
 **josevrius/josevrius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

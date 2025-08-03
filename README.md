@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p>Desarrollador con pasión por el código limpio y el diseño intuitivo.</br>
-Apasionado por resolver problemas y convertir ideas en soluciones funcionales.</br>
-¡Vamos a construir algo genial juntos!</p>
+The only valid measurement of code quality: WTFs/minute

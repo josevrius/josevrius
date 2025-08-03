@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-✨ Frontend lover, backend explorer & gamer ✨
+✨ Frontend lover, backend explorer & gamer
 
-📌 The only valid measurement of code quality: WTFs/minute
+> The only valid measurement of code quality: WTFs/minute 📌

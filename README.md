@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 Soy un apasionado del código limpio y el diseño intuitivo.
 ¡Vamos a crear algo genial juntos!
 
-The only valid measurement of code quality: WTFs/minute
+> The only valid measurement of code quality: WTFs/minute

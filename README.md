@@ -16,6 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <p>Desarrollador con pasión por el código limpio y el diseño intuitivo.</p>
-
-Apasionado por resolver problemas y convertir ideas en soluciones funcionales.
-¡Vamos a construir algo genial juntos!
+<p>Apasionado por resolver problemas y convertir ideas en soluciones funcionales.</p>
+<p>¡Vamos a construir algo genial juntos!</p>
